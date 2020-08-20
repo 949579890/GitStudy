@@ -6,5 +6,10 @@ public class Boss {
         System.out.println("我是老板");
         System.out.println("我是老板");
         System.out.println("我是老板");
+
+
+        System.out.println("我是员工");
+        System.out.println("我是员工");
+        System.out.println("我是员工");
     }
 }
